@@ -2,12 +2,12 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'rice',
+        name:'Rice',
         image: 'assets/images/rice.jpg',
         category: 'mains',
         label:'Hot',
         price:'4.99',
-        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
+        description:'This particular mushroom is found all over Haiti, particularly in the northern region of Haiti. It is known as a delicacy and is often served at weddings, holidays, Sunday dinners, or on special occasions.',
         comments: [
             {
             id: 0,
@@ -98,7 +98,7 @@ export const DISHES =
         category: 'appetizer',
         label:'New',
         price:'1.99',
-        description:'A quintessential ConFusion experience, is it a vada or is it a donut?',
+        description:'Haitian Pikliz, a yummy deliciousness usually accompanies fried foods (fritay). It is a spicy condiment popular in Haitian cuisine made of cabbage, carrots and various seasonings.',
         comments: [
             {
             id: 0,
